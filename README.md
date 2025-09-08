@@ -1,15 +1,9 @@
-# CORNDOG-BONGSU
-Website Corndog Bongsu – Jajannya Anak Muda | Pemesanan Online 
 # Corndog Bongsu
 
 Website resmi **Corndog Bongsu**, jajannya anak muda yang menyajikan berbagai varian CornDog: Keju, Coklat, dan Matcha.  
 
 Website ini dibuat menggunakan **HTML, CSS (TailwindCSS)** dan bersifat statis, sehingga mudah diakses melalui **GitHub Pages**.
 
-## Menu Varian
-- CornDog Keju
-- CornDog Coklat
-- CornDog Matcha
 
 ## Cara Pemesanan
 Website menyediakan link langsung untuk memesan melalui:
@@ -31,4 +25,3 @@ Website menyediakan link langsung untuk memesan melalui:
 
 ## Lisensi
 Website ini dibuat untuk keperluan promosi Corndog Bongsu dan dapat digunakan secara gratis untuk keperluan pribadi/non-komersial.
-
